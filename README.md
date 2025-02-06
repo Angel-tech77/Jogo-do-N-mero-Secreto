@@ -1,2 +1,2 @@
-# Jogo-do-N-mero-Secreto
+# Jogo-Secreto
 Gerador de Numero aleatório
